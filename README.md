@@ -80,5 +80,5 @@ This project is licensed under the MIT License.
 ---
 
 ## **Credits**
-Created by **Samir Thakuri**.
+Created by **Samir Thakuri**. <br>
 API by **Syed Samir Chowdhury**.
