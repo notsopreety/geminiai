@@ -24,7 +24,7 @@ Follow these steps to install and run the script in **Termux**:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/samirxpikachu/geminiai.git
+   git clone https://github.com/notsopreety/geminiai.git
    ```
 
 3. **Navigate to the Directory**:
@@ -81,3 +81,4 @@ This project is licensed under the MIT License.
 
 ## **Credits**
 Created by **Samir Thakuri**.
+API by **Syed Samir Chowdhury**.
